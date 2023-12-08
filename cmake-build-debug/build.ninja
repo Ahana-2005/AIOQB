@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/AHANA/CLionProjects/AIOQB/cmake-build-debug/
 
 build cmake_object_order_depends_target_AIOQB: phony || CMakeFiles/AIOQB.dir
 
-build CMakeFiles/AIOQB.dir/P-19.c.obj: C_COMPILER__AIOQB_unscanned_Debug C$:/Users/AHANA/CLionProjects/AIOQB/P-19.c || cmake_object_order_depends_target_AIOQB
-  DEP_FILE = CMakeFiles\AIOQB.dir\P-19.c.obj.d
+build CMakeFiles/AIOQB.dir/P-26.c.obj: C_COMPILER__AIOQB_unscanned_Debug C$:/Users/AHANA/CLionProjects/AIOQB/P-26.c || cmake_object_order_depends_target_AIOQB
+  DEP_FILE = CMakeFiles\AIOQB.dir\P-26.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\AIOQB.dir
   OBJECT_FILE_DIR = CMakeFiles\AIOQB.dir
@@ -63,7 +63,7 @@ build CMakeFiles/AIOQB.dir/P-19.c.obj: C_COMPILER__AIOQB_unscanned_Debug C$:/Use
 #############################################
 # Link the executable AIOQB.exe
 
-build AIOQB.exe: C_EXECUTABLE_LINKER__AIOQB_Debug CMakeFiles/AIOQB.dir/P-19.c.obj
+build AIOQB.exe: C_EXECUTABLE_LINKER__AIOQB_Debug CMakeFiles/AIOQB.dir/P-26.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\AIOQB.dir

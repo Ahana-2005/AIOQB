@@ -1,5 +1,4 @@
-//Write a program that reads in a one dimensional character array, converts all the elements
-//to upper case and display the converted array.(Do not use any library functions).
+//Write a program that reads in a one dimensional character array, converts all the elements to upper case and display the converted array.(Do not use any library functions).
 #include <stdio.h>
 int main()
 {

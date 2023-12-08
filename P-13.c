@@ -1,6 +1,4 @@
-//Write a program in C that reads a line of text on a character by character basis, and then
-//displays the character in reverse order.
-//E.g. Birds can fly → ylf nac sdriB.
+//Write a program in C that reads a line of text on a character by character basis, and then displays the character in reverse order.E.g. Birds can fly → ylf nac sdriB.
 #include <stdio.h>
 #include <string.h>
 int main()

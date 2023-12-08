@@ -1,6 +1,4 @@
-//Mr. X walks 20ft and 8inch in a narrow road and covers it in 10 mins. From Mr.X ending point
-//Mr. Y starts walking and cover a distance 32ft and 6inch in 15 mins. Write a C program that
-//will calculate total distance covered and time taken by Mr.X and Mr.Y together using structures.
+//Mr. X walks 20ft and 8inch in a narrow road and covers it in 10 mins. From Mr.X ending point Mr. Y starts walking and cover a distance 32ft and 6inch in 15 mins. Write a C program that will calculate total distance covered and time taken by Mr.X and Mr.Y together using structures.
 #include <stdio.h>
 int main()
 {
