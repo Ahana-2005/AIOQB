@@ -28,5 +28,10 @@ add_executable(AIOQB
         #P-22.c
         #P-23.c
         #P-24.c
-        P-26.c
+        #P-25.c
+        #P-26.c
+        #P-27.c
+        #P-28.c
+        #P-29.c
+        #P-30.c
 )
